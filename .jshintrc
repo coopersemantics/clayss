@@ -1,0 +1,15 @@
+{
+	"curly": true,
+	"maxcomplexity": 13,
+	"newcap": false,
+	"noarg": true,
+	"noempty": true,
+	"strict": true,
+	"undef": true,
+	"mocha": true,
+	"loopfunc": true,
+	"node": true,
+	"expr": true,
+	"eqnull": true,
+	"boss": true
+}

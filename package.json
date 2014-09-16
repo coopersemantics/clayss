@@ -1,0 +1,30 @@
+{
+    "name": "clayss",
+    "version": "0.1.0",
+    "description": "A module for constructing classes in node and the browser.",
+    "author": "coopersemantics",
+    "homepage": "https://github.com/coopersemantics/clayss",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/coopersemantics/clayss"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/coopersemantics/clayss/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "main": "./lib/clayss.js",
+    "dependencies": {},
+    "devDependencies": {
+        "gulp": "~3.8.7",
+        "gulp-jshint": "~1.7.1",
+        "jshint-stylish": "~0.4.0",
+        "gulp-mocha": "~0.5.1",
+        "mocha": "~1.21.0",
+        "chai": "~1.9.1",
+        "gulp-browserify": "~0.5.0",
+        "gulp-rename": "~1.2.0",
+        "gulp-uglify": "~1.0.1"
+    }
+}
